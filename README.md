@@ -1,4 +1,4 @@
-# samternary
+# floryhugginsternary
 
 `floryhugginsternary` aids users in predicting phase diagrams for three component mixtures of small molecules. It does this by providing the equations of chemical equilibrium (i.e. equal chemical potentials) in a form which is fairly straightforward to implement into a numerical solver (e.g. scipy.optimize.root or similar).
 

@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
-from scipy.optimize import root
 
+from floryhugginsternary.spinodal import Spinodal
 
 
 fig = plt.figure()
@@ -45,7 +45,7 @@ for i,data in enumerate([data1,data2,data3]):
 
 
 
-from spinodal import Spinodal
+
 
 spin = Spinodal()
 

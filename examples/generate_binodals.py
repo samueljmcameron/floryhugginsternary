@@ -2,7 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.optimize import root
 
-from chemeq3 import ChemEq3_2phase, ChemEq3_initialise
+from floryhugginsternary.chemeq3 import ChemEq3_2phase
+from floryhugginsternary.chemeq3 import ChemEq3_initialise
 
 
 
