@@ -10,7 +10,7 @@ setuptools.setup(
     author_email="samuel.j.m.cameron@gmail.com",
     description=("package to find tie-lines, binodals "
                  "and spinodals in a three-component "
-                 "mixture with flory-huggins free energy.",
+                 "mixture with flory-huggins free energy."),
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/samueljmcameron/floryhugginsternary",
